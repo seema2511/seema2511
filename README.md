@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity Enthusiast | React |<br>• Node.js| • Python| Firebase | Databases | DevOps (Learning)|<br> Building real-world projects & exploring system security
+Cybersecurity Enthusiast | React | Node.js| Python| Firebase | Databases | DevOps (Learning)|<br> Building real-world projects & exploring system security
 
 
 ## 🌐 Socials:
